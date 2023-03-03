@@ -1,0 +1,11 @@
+body{
+    background-color: gray;
+}
+.contenedor {
+    display: flex;
+    flex-wrap: wrap;
+}
+.contenedor img {
+    width: 300px;
+    margin: 10px;
+}
